@@ -5,6 +5,7 @@
 # Ignore model files that are auto-generated
 *.data
 *.user
+*.rsuser
 *.rds
 
 # Ignore solutions files
